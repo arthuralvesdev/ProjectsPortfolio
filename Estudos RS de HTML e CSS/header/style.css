@@ -1,0 +1,45 @@
+body {
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+}
+
+header {
+    background: lightgray;
+    padding: 4rem;
+}
+
+a {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: .4rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+ul {
+    list-style: none;
+    height: 20px;
+    align-items: center;
+    gap: .8rem;
+    display: flex;
+    
+}
+
+li {
+
+}
+
+li:last-child {
+    color: red;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding:.8rem;
+    cursor: pointer;
+}

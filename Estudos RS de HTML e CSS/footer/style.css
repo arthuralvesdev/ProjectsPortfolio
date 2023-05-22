@@ -1,0 +1,10 @@
+.data {
+    background: lightgray;
+    padding: 40px;
+}
+
+.data-text {
+    align-items: center;
+    justify-content: center;
+    
+}

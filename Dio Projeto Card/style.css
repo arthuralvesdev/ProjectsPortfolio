@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 100X;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    height: 400px;
+    width: 500px;
+    background-image: url(./landscape.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

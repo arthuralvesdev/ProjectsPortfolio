@@ -1,0 +1,13 @@
+.button {
+    gap: .5rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    
+}
+
+img {
+    width: 1.8rem;
+    height: 1.8rem;
+}
